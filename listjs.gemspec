@@ -9,15 +9,15 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Alex DUVAL"]
   spec.email         = ["alexduval71@gmail.com"]
 
-  spec.summary       = "This gem is for adding easily ListJS to your rail application."
-  spec.description   = "It will be use for seach, sort, filter any Div element, li , table content."
+  spec.summary       = %q{This gem is for adding easily ListJS to your rail application.}
+  spec.description   = %q{It will be use for seach, sort, filter any Div element, li , table content.}
   spec.homepage      = "https://github.com/xlanex6/ListJS-gem"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
   if spec.respond_to?(:metadata)
-    spec.metadata['allowed_push_host'] = "Refer to the  'https://github.com/xlanex6/ListJS-gem' for issues or questions."
+    spec.metadata['allowed_push_host'] = "https://github.com/xlanex6/ListJS-gem/issues"
   else
     raise "RubyGems 2.0 or newer is required to protect against public gem pushes."
   end
