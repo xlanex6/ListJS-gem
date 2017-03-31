@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "This gem is for adding easily ListJS to your rail application."
   spec.description   = "It will be use for seach, sort, filter any Div element, li , table content."
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/xlanex6/ListJS-gem"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'

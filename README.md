@@ -28,7 +28,12 @@ After add this line to your `app/assets/application.js`
 
 ## Usage
 
+I suggest to have a look on the website from [list.js](http://listjs.com/) to explore all feature / API.
+  - Search
+  - Sort
+  - Filters
 
+for any lists, tables or HTML elements.
 
 ## Development
 
